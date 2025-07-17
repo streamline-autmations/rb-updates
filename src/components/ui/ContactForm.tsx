@@ -15,4 +15,7 @@
 +  }, []);
    
    // Generate or retrieve lead_id and fetch location data on component mount
-   useEffect(() => {
+   useEffe
+   }
+   )
+ }ct(() => {
